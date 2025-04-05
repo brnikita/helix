@@ -63,14 +63,15 @@ docker-compose up web
 ## Project Structure
 
 - `/src` - Application source code
+  - `/app` - Next.js app router pages
   - `/components` - UI components
   - `/screens` - Main application screens (Generate, AssetSelection)
   - `/lib` - Utility functions and helpers
 
 ## Technologies
 
+- Next.js
 - React
 - TypeScript
 - Tailwind CSS
-- Vite
 - Docker

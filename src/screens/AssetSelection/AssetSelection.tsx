@@ -1,8 +1,8 @@
 import { ImageIcon, PlusIcon, TextIcon } from "lucide-react";
-import { Card, CardContent, CardHeader } from "../../components/ui/card.js";
-import { Input } from "../../components/ui/input.js";
-import { Separator } from "../../components/ui/separator.js";
-import { Textarea } from "../../components/ui/textarea.js";
+import { Card, CardContent, CardHeader } from "../../components/ui/card";
+import { Input } from "../../components/ui/input";
+import { Separator } from "../../components/ui/separator";
+import { Textarea } from "../../components/ui/textarea";
 
 export const AssetSelection = (): JSX.Element => {
   // Color palette data
