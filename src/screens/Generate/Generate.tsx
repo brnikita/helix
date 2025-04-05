@@ -1,8 +1,8 @@
 import { InfoIcon } from "lucide-react";
-import { Button } from "../../components/ui/button.js";
-import { Card, CardContent } from "../../components/ui/card.js";
-import { Separator } from "../../components/ui/separator.js";
-import { Textarea } from "../../components/ui/textarea.js";
+import { Button } from "../../components/ui/button";
+import { Card, CardContent } from "../../components/ui/card";
+import { Separator } from "../../components/ui/separator";
+import { Textarea } from "../../components/ui/textarea";
 
 export const Generate = (): JSX.Element => {
   // Navigation items data
